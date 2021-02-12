@@ -11,3 +11,10 @@
 // Your CSS partials
 @import "components/index";
 @import "pages/index";
+
+h1 {
+  font-family: sans-serif;
+  color: white;
+  margin-bottom: 20px;
+  font-size: 60px;
+}
